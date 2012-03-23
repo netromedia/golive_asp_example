@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICallerTemplate", "APICallerTemplate\APICallerTemplate.csproj", "{A66BDD2D-59C6-4638-95F6-84998D10B03D}"
+EndProject
+Global
+	GlobalSection(VaultVsipSolution-v2) = preSolution
+		VaultHost = http://source.netro.ca/VaultService
+		VaultRepositoryID = 2
+		VaultRepositoryGUID = 371c89f4-1e3d-44da-99db-1b9e9b005414
+		ProjectCount = 1
+		ProjectRelativeDiskPath1 = APICallerTemplate\APICallerTemplate.csproj
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66BDD2D-59C6-4638-95F6-84998D10B03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66BDD2D-59C6-4638-95F6-84998D10B03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66BDD2D-59C6-4638-95F6-84998D10B03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66BDD2D-59C6-4638-95F6-84998D10B03D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

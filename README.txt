@@ -8,4 +8,8 @@
 *             support@netromedia.com		     *
 ******************************************************
 
-ToDo: Provide a simple client for the GoLive API in ASP.net
+1 - Clone the repo and fire up the Solution in Visual Studio!
+
+2 - Happily accepting Pull requests! :)
+
+	-- Thx, Will.

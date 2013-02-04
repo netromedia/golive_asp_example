@@ -8,8 +8,11 @@
 *             support@netromedia.com		     *
 ******************************************************
 
-1 - Clone the repo and fire up the Solution in Visual Studio!
+- Developer access for the GoLive API can be requested via e-mail: support@netromedia.com
+- Documentation - https://login.netromedia.com/api
 
-2 - Happily accepting Pull requests! :)
+- Clone the repo and fire up the Solution in Visual Studio!
+
+- Happily accepting Pull requests! :)
 
 	-- Thx, Will.
